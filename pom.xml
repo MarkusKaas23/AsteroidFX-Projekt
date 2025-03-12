@@ -97,5 +97,6 @@
   </profiles>
   <modules>
     <module>Core</module>
+      <module>Common</module>
   </modules>
 </project>
